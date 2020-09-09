@@ -29,6 +29,7 @@ My vscode config and settings
             "semi": false,
             "singleQuote": true
         }
-    }
+    },
+    "turboConsoleLog.quote": "'"
 }
 ```
